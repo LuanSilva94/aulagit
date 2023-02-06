@@ -1,1 +1,1 @@
-Docker é um gerador de containers
+Docker é um gerador de containers.
